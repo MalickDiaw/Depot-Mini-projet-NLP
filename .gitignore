@@ -2,11 +2,11 @@
 
 machine_translation/mini_projet/.ipynb_checkpoints
 
-machine_translation/mini_projet/data_eng_fr/checkpoint
-machine_translation/mini_projet/data_eng_fr/model
+machine_translation/mini_projet/data_eng_fr/checkpoint/*
+machine_translation/mini_projet/data_eng_fr/model/*
 
-machine_translation/mini_projet/data_fr_por/checkpoint
-machine_translation/mini_projet/data_fr_por/model
+machine_translation/mini_projet/data_fr_por/checkpoint/*
+machine_translation/mini_projet/data_fr_por/model/*
 
 __pycache__
 .DS_Store
